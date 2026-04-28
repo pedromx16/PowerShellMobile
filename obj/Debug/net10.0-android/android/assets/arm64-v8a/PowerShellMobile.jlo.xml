@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64470f32c3dfb742ef" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="PowerShellMobile.MainActivity, PowerShellMobile">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64470f32c3dfb742ef" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="PowerShellMobile.MainApplication, PowerShellMobile" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="PowerShellMobile" module-name="PowerShellMobile.dll">
+    <type assembly-qualified-name="PowerShellMobile.MainActivity, PowerShellMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="powershellmobile.MainActivity" java-key="crc64470f32c3dfb742ef.MainActivity" managed-key="PowerShellMobile.MainActivity" partial-assembly-qualified-name="PowerShellMobile.MainActivity, PowerShellMobile" />
+    <type assembly-qualified-name="PowerShellMobile.MainApplication, PowerShellMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="powershellmobile.MainApplication" java-key="crc64470f32c3dfb742ef.MainApplication" managed-key="PowerShellMobile.MainApplication" partial-assembly-qualified-name="PowerShellMobile.MainApplication, PowerShellMobile" />
+  </acw-types>
+</api>

@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="PowerShellMobile" mvid="5c4b416c4a9c4eba8cf5002e1844c4d8">
+  <java-to-managed>
+    <entry java-name="crc64470f32c3dfb742ef/MainActivity" managed-name="PowerShellMobile.MainActivity, PowerShellMobile" managed-type-token-id="33554441" />
+    <entry java-name="crc64470f32c3dfb742ef/MainApplication" managed-name="PowerShellMobile.MainApplication, PowerShellMobile" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64470f32c3dfb742ef/MainActivity" managed-name="PowerShellMobile.MainActivity, PowerShellMobile" managed-type-token-id="33554441" />
+    <entry java-name="crc64470f32c3dfb742ef/MainApplication" managed-name="PowerShellMobile.MainApplication, PowerShellMobile" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>
