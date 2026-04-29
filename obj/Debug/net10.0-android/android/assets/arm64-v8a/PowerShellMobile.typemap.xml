@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="PowerShellMobile" mvid="5c4b416c4a9c4eba8cf5002e1844c4d8">
+<api type="debug" assembly-name="PowerShellMobile" mvid="8e0304817bd94d809b5cc3b4ddbc5a7c">
   <java-to-managed>
     <entry java-name="crc64470f32c3dfb742ef/MainActivity" managed-name="PowerShellMobile.MainActivity, PowerShellMobile" managed-type-token-id="33554441" />
     <entry java-name="crc64470f32c3dfb742ef/MainApplication" managed-name="PowerShellMobile.MainApplication, PowerShellMobile" managed-type-token-id="33554442" />
